@@ -26,3 +26,12 @@ O código está dividido em três classes principais:
 - Inclui um método para salvar o DataFrame em um arquivo Parquet, lidando com exceções que podem ocorrer durante o processo.
 
 O notebook também inclui a instância dessas classes, onde um DataFrame é criado a partir de um arquivo CSV online, uma consulta SQL é executada no DataFrame e, finalmente, o DataFrame é salvo em formato Parquet.
+
+
+## Equipe
+
+Bárbara Leimig: (https://github.com/BarbaraLeimig)
+Carlos Campos: (https://github.com/carloscamposb)
+Lucas Teixeira: (https://github.com/Lukgt)
+Rodrigo Souza: (https://github.com/rodrigolsouza)         
+Ruth Xavier:(https://github.com/xavierruth)
