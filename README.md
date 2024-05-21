@@ -31,7 +31,11 @@ O notebook também inclui a instância dessas classes, onde um DataFrame é cria
 ## Equipe
 
 Bárbara Leimig: (https://github.com/BarbaraLeimig)
+
 Carlos Campos: (https://github.com/carloscamposb)
+
 Lucas Teixeira: (https://github.com/Lukgt)
+
 Rodrigo Souza: (https://github.com/rodrigolsouza)         
+
 Ruth Xavier:(https://github.com/xavierruth)
